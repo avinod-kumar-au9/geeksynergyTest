@@ -75,7 +75,7 @@ const Details = (props) => {
                       />
                     </div>
                     <div>
-                      <label htmlFor="phone">Phone</label>
+                      <label htmlFor="phone">PHONE</label>
                       <input
                         onChange={signupInputphone}
                         type="number"
